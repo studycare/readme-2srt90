@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studycare.github.io/readme-2srt90/sitemap.xml
